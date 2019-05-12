@@ -1,0 +1,69 @@
+Valor del ancho de la semibase 12.20 m
+Valor del ancho del derrame 6.10 m
+Valor de la altura del terraplén 5.00 m
+Potencia del terreno considerado 6.20 m
+Valor de la carga de tierras = 90.00 [kN/m2]
+Cálculos realizados para x= 12.20 m
+
+sigma_z(0.10)= 89.99994 sigma_x(0.10)= 88.69801 kN/m2 
+sigma_z(0.20)= 89.99950 sigma_x(0.20)= 87.39679 kN/m2 
+sigma_z(0.30)= 89.99830 sigma_x(0.30)= 86.09707 kN/m2 
+sigma_z(0.40)= 89.99597 sigma_x(0.40)= 84.79961 kN/m2 
+sigma_z(0.50)= 89.99215 sigma_x(0.50)= 83.50516 kN/m2 
+sigma_z(0.60)= 89.98647 sigma_x(0.60)= 82.21444 kN/m2 
+sigma_z(0.70)= 89.97857 sigma_x(0.70)= 80.92819 kN/m2 
+sigma_z(0.80)= 89.96810 sigma_x(0.80)= 79.64711 kN/m2 
+sigma_z(0.90)= 89.95473 sigma_x(0.90)= 78.37189 kN/m2 
+sigma_z(1.00)= 89.93814 sigma_x(1.00)= 77.10322 kN/m2 
+sigma_z(1.10)= 89.91801 sigma_x(1.10)= 75.84175 kN/m2 
+sigma_z(1.20)= 89.89403 sigma_x(1.20)= 74.58813 kN/m2 
+sigma_z(1.30)= 89.86592 sigma_x(1.30)= 73.34296 kN/m2 
+sigma_z(1.40)= 89.83342 sigma_x(1.40)= 72.10685 kN/m2 
+sigma_z(1.50)= 89.79626 sigma_x(1.50)= 70.88036 kN/m2 
+sigma_z(1.60)= 89.75420 sigma_x(1.60)= 69.66405 kN/m2 
+sigma_z(1.70)= 89.70703 sigma_x(1.70)= 68.45842 kN/m2 
+sigma_z(1.80)= 89.65453 sigma_x(1.80)= 67.26398 kN/m2 
+sigma_z(1.90)= 89.59652 sigma_x(1.90)= 66.08118 kN/m2 
+sigma_z(2.00)= 89.53283 sigma_x(2.00)= 64.91047 kN/m2 
+sigma_z(2.10)= 89.46330 sigma_x(2.10)= 63.75225 kN/m2 
+sigma_z(2.20)= 89.38779 sigma_x(2.20)= 62.60691 kN/m2 
+sigma_z(2.30)= 89.30620 sigma_x(2.30)= 61.47480 kN/m2 
+sigma_z(2.40)= 89.21841 sigma_x(2.40)= 60.35624 kN/m2 
+sigma_z(2.50)= 89.12435 sigma_x(2.50)= 59.25154 kN/m2 
+sigma_z(2.60)= 89.02394 sigma_x(2.60)= 58.16095 kN/m2 
+sigma_z(2.70)= 88.91714 sigma_x(2.70)= 57.08473 kN/m2 
+sigma_z(2.80)= 88.80390 sigma_x(2.80)= 56.02310 kN/m2 
+sigma_z(2.90)= 88.68421 sigma_x(2.90)= 54.97623 kN/m2 
+sigma_z(3.00)= 88.55806 sigma_x(3.00)= 53.94430 kN/m2 
+sigma_z(3.10)= 88.42546 sigma_x(3.10)= 52.92745 kN/m2 
+sigma_z(3.20)= 88.28642 sigma_x(3.20)= 51.92579 kN/m2 
+sigma_z(3.30)= 88.14099 sigma_x(3.30)= 50.93941 kN/m2 
+sigma_z(3.40)= 87.98921 sigma_x(3.40)= 49.96840 kN/m2 
+sigma_z(3.50)= 87.83112 sigma_x(3.50)= 49.01280 kN/m2 
+sigma_z(3.60)= 87.66681 sigma_x(3.60)= 48.07263 kN/m2 
+sigma_z(3.70)= 87.49635 sigma_x(3.70)= 47.14792 kN/m2 
+sigma_z(3.80)= 87.31982 sigma_x(3.80)= 46.23865 kN/m2 
+sigma_z(3.90)= 87.13732 sigma_x(3.90)= 45.34480 kN/m2 
+sigma_z(4.00)= 86.94895 sigma_x(4.00)= 44.46633 kN/m2 
+sigma_z(4.10)= 86.75483 sigma_x(4.10)= 43.60318 kN/m2 
+sigma_z(4.20)= 86.55506 sigma_x(4.20)= 42.75529 kN/m2 
+sigma_z(4.30)= 86.34977 sigma_x(4.30)= 41.92255 kN/m2 
+sigma_z(4.40)= 86.13908 sigma_x(4.40)= 41.10489 kN/m2 
+sigma_z(4.50)= 85.92314 sigma_x(4.50)= 40.30218 kN/m2 
+sigma_z(4.60)= 85.70207 sigma_x(4.60)= 39.51431 kN/m2 
+sigma_z(4.70)= 85.47601 sigma_x(4.70)= 38.74115 kN/m2 
+sigma_z(4.80)= 85.24510 sigma_x(4.80)= 37.98256 kN/m2 
+sigma_z(4.90)= 85.00950 sigma_x(4.90)= 37.23838 kN/m2 
+sigma_z(5.00)= 84.76934 sigma_x(5.00)= 36.50847 kN/m2 
+sigma_z(5.10)= 84.52478 sigma_x(5.10)= 35.79266 kN/m2 
+sigma_z(5.20)= 84.27596 sigma_x(5.20)= 35.09078 kN/m2 
+sigma_z(5.30)= 84.02304 sigma_x(5.30)= 34.40265 kN/m2 
+sigma_z(5.40)= 83.76617 sigma_x(5.40)= 33.72810 kN/m2 
+sigma_z(5.50)= 83.50549 sigma_x(5.50)= 33.06693 kN/m2 
+sigma_z(5.60)= 83.24115 sigma_x(5.60)= 32.41897 kN/m2 
+sigma_z(5.70)= 82.97332 sigma_x(5.70)= 31.78401 kN/m2 
+sigma_z(5.80)= 82.70213 sigma_x(5.80)= 31.16186 kN/m2 
+sigma_z(5.90)= 82.42773 sigma_x(5.90)= 30.55233 kN/m2 
+sigma_z(6.00)= 82.15027 sigma_x(6.00)= 29.95521 kN/m2 
+sigma_z(6.10)= 81.86990 sigma_x(6.10)= 29.37031 kN/m2 
+sigma_z(6.20)= 81.58675 sigma_x(6.20)= 28.79741 kN/m2 
